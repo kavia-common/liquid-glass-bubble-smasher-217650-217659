@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/liquid-glass-bubble-smasher-217650-217659/bubble_smasher_frontend"
+}
